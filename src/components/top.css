@@ -1,0 +1,15 @@
+.top{
+    display: flex;
+    padding-left: 500px;
+}
+
+
+.dinag{
+    margin: 20px;
+    text-decoration: none;
+    font-size: 20PX;
+    color: rgb(215, 232, 233);
+}
+.dinag:hover{
+    color: chartreuse   ;
+}
